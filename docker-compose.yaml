@@ -9,5 +9,10 @@ services:
     stdin_open: true
     ports:
       - 3000:3000
-
+      
+  backend:
+   build:
+      context: backend
+      dockerfile: dockerfile
+   
      
