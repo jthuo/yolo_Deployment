@@ -1,23 +1,50 @@
-# Requirements
-Make sure that you have the following installed:
-- [node](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04) 
-- npm 
-- [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/) and start the mongodb service with `sudo service mongod start`
+# Project Name
 
-## Navigate to the Client Folder 
- `cd client`
+## Deploy Yolo App to Kubernetes
 
-## Run the folllowing command to install the dependencies 
- `npm install`
+#### Contributors
 
-## Run the folllowing to start the app
- `npm start`
+- James Maina Thuo
 
-## Open a new terminal and run the same commands in the backend folder
- `cd ../backend`
- 
- `npm install`
+July, 2023
 
- `npm start`
+## website/Live Site
+Git repo [here](https://github.com/jthuo/yolo_Deployment.git)
+## Project Description
+Deploy a react webApp (Yolo) to K8S 
+## Project Setup Instruction
+Docker desktop and  minikube installed in docker desktop
 
- ### Go ahead a nd add a product (note that the price field only takes a numeric input)
+## Known Bugs
+No known bugs were discovered.
+
+## Technologies Used
+Docker
+K8S
+Minikube
+
+## Support and contact details
+For more information or Support liase with any contributor listed for this project.
+### License Information
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this documentation files (the "Software"), to deal
+in the website creation without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies software.
+
+THE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.\*
+
+## Copyright
+
+Copyright &copy; 2023
